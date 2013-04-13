@@ -25,17 +25,6 @@ tags:
 
 
 
-
-
-
-μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος
-οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκεν
-
-
-
-
-
-
 > "Canta, oh musa, la ira del Pélida Aquiles /cólera funesta que causó infinitos males a los aqueos".
 
 
@@ -79,7 +68,7 @@ Los norteamericanos conservan la Pata de Palo en Springfield, hay que recordar q
 
 Los botines de guerra son un resabio de tiempos que deberíamos tener superados. [La Convención de la Haya de 1907](http://es.wikipedia.org/wiki/Conferencias_de_la_Haya_de_1899_y_1907), y la de [Génova de 1949](http://en.wikipedia.org/wiki/Fourth_Geneva_Convention), prohiben el pillaje, y establecen una protección de la propiedad de los territorios ocupados.
 
-Sin embargo, tenemos noticias de [pillajes y pérdidas culturales en Irak](El Huáscar  Recientemente se ha resucitado la polémica con respecto al monitor Huáscar, con la idea de que sea devuelto al Perú, como un gesto de hermandad y reconciliación. Una idea defendida por muchas personas hace tiempo.).
+Sin embargo, tenemos noticias de pillajes y pérdidas culturales en Irak. (El Huáscar  Recientemente se ha resucitado la polémica con respecto al monitor Huáscar, con la idea de que sea devuelto al Perú, como un gesto de hermandad y reconciliación. Una idea defendida por muchas personas hace tiempo.).
 
 **El Huáscar**
 

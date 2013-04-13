@@ -17,7 +17,10 @@ tags:
 
 [![](http://www.lnds.net/blog/wp-content/uploads/2012/09/los-supersonicos1-300x207.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/09/los-supersonicos1.jpg)Los Supersónicos cumplieron 50 años. Fue el 23 de septiembre de 1962 que se emitió el primer episodio de la serie de dibujos animados futurista, a través de la cadena ABC.
 
+
 Lo sorprendente es que los Supersónicos sólo fueron emitidos por una temporada, fueron un fracaso televisivo en su época. ¡Hasta 1985 sólo habían 24 capítulos de los Supersónicos!
+
+<!-- more -->
 
 Sí, ya se lo que están pensando, no puede ser que en mi niñez (si fuiste niño antes de 1985) sólo haya visto 24 capítulos de los Supersónicos, pero es así, sólo hubo 24 capítulos de esta serie, hasta 1985, cuando se le agregaron 41 episodios, para retransmisión (syndication). Posteriormente en 1987 se agregaron 10 capítulos más, junto con un especial donde los Supersónicos se encuentran con los Picapiedras. Otro especial en 1988, y la película de 1990. Así que las generaciones post 80´s tuvieron la suerte de contar con más capítulos de estos caracteres.
 

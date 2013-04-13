@@ -32,9 +32,9 @@ Siempre será Canción Nueva
 
 
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2012/09/jara.jpg)](http://www.akarru.org/blog/wp-content/uploads/2012/09/jara.jpg)Yo conocí la música de Victor Jara en profundidad al entrar a la universidad, , un amigo mío que tocaba la guitarra, y con quien en el colegio habíamos formado una banda, me introdujo en la magia de la música de Jara. Aunque las letras eran impactantes, para dos chuquicamatinos que salíamos de nuestra burbuja de perfección y correcta estructura social, el canto de Victor Jara era parte de esa liberación de conciencia que significó chocar con la realidad de nuestro país.
+{% img center /blog/wp-content/uploads/2012/09/jara.jpg %} Yo conocí la música de Victor Jara en profundidad al entrar a la universidad, , un amigo mío que tocaba la guitarra, y con quien en el colegio habíamos formado una banda, me introdujo en la magia de la música de Jara. Aunque las letras eran impactantes, para dos chuquicamatinos que salíamos de nuestra burbuja de perfección y correcta estructura social, el canto de Victor Jara era parte de esa liberación de conciencia que significó chocar con la realidad de nuestro país.
 
-
+<!-- more -->
 
 
 Para que tengan contexto estoy hablando de 1985-1986, cuando conocí lugares como el café del cerro y algunas peñas, en parroquias o en la universidad. Los que me conocen saben que no soy muy fan del llamado canto nuevo. Me aburren Schwenke y Nilo, y Santiago del Nuevo Extremo, pero escuchaba entusiasmado a Congreso, Sol de Medianoche, y por supuesto los Jaivas, porque tienen una base más rockera talvez.

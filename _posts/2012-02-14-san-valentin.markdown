@@ -17,6 +17,7 @@ tags:
 
 En 1969 el Vaticano eliminó del calendario general romano la celebración de San Valentín, aunque se mantuvo en los calendarios locales, la razón es que "aparte de ser una celebración muy antigua, no se sabe mucho de San Valentín, aparte de que fue enterrado en la Via Flaminia el 14 de febrero".
 
+<!-- more -->
 Así que no sabemos mucho de quién fue San Valentín. Su relación con el amor romántico surge en la alta edad media. Ya sabemos que [es en la corte de Leonor de Aquitania que el concepto del amor romantico se desarrolla](http://www.akarru.org/blog/2010/04/el-amor-mi-amor/).
 
 

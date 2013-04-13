@@ -16,7 +16,7 @@ tags:
 - nudos
 ---
 
-[caption id="attachment_128" align="alignright" width="271" caption="Alejandro corta el nudo"][![](http://www.akarru.org/blog/wp-content/uploads/2010/06/gordian-knot-1-271x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2010/06/gordian-knot-1.jpg)[/caption]
+{% img right  http://www.akarru.org/blog/wp-content/uploads/2010/06/gordian-knot-1-271x300.jpg %}
 
 La leyenda cuenta que Alejandro Magno al conquistar Frigia enfrentó el desafío del nudo gordiano. Gordias era un campesino quien, por designio de un oráculo se convirtió en rey de los frigios. Gordias tenía un carro tirado por una yunta de bueyes, y se cuenta que el amarraba el yugo a su carro con un complicadisimo nudo. El carro fue consagrado por Midas, el hijo de Gordias a Zeus, y se encontraba aún en el palacio de los reyes frigios en el año 333 a.C. cuando Alejandro llega a Frigia.
 
@@ -32,7 +32,7 @@ Encontramos estas soluciones admirables, pero que dificil es ser decidido como A
 
 Esto me recuerda otra historia famosa, la del huevo de Colón.
 
-[Según la RAE](http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=huevo&origen=RAE&TIPO_BUS=3#huevo_de_Colón.), el "huevo de Colón" es una _"Cosa que aparenta tener mucha dificultad pero resulta ser fácil al conocer su artificio"_.
+Según la RAE el "huevo de Colón" es una _"Cosa que aparenta tener mucha dificultad pero resulta ser fácil al conocer su artificio"_.
 
 La historia fue contada por Girolamo Benzoni en su [Historia del Nuevo Mundo](http://books.google.com/books?id=1vZzhmtdPQkC&printsec=frontcover&dq=Girolamo+Benzoni&cd=5#v=onepage&q&f=false):
 
@@ -40,7 +40,7 @@ La historia fue contada por Girolamo Benzoni en su [Historia del Nuevo Mundo](ht
 > Estando Cristóbal Colón a la mesa con muchos nobles españoles, uno de ellos le dijo: 'Sr. Colón, incluso si vuestra merced no hubiera encontrado las Indias, no nos habría faltado una persona que hubiese emprendido una aventura similar a la suya, aquí, en España que es tierra pródiga en grandes hombres muy entendidos en cosmografía y literatura'. Colón no respondió a estas palabras pero, habiendo solicitado que le trajeran un huevo, lo colocó sobre la mesa y dijo: 'Señores, apuesto con cualquiera de ustedes a que no serán capaces de poner este huevo de pie como yo lo haré, desnudo y sin ayuda ninguna'. Todos lo intentaron sin éxito y cuando el huevo volvió a Colón éste al golpearlo contra la mesa, colocandolo sutilmente lo dejó de pie. Todos los presentes quedaron confundidos y entendieron lo que quería decirles: que después de hecha y vista la hazaña, cualquiera sabe cómo hacerla.
 
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/06/huevo_de_colon-300x236.jpg)](http://www.akarru.org/blog/wp-content/uploads/2010/06/huevo_de_colon.jpg)
+{% img center http://www.akarru.org/blog/wp-content/uploads/2010/06/huevo_de_colon.jpg %}
 
 Que fácil es opinar sobre lo sencillo que es resolver un problema, una vez que hemos visto la solución. Hay una variación de la historia del huevo de Colón relacionada, [de acuerdo a Wikipedia](http://es.wikipedia.org/wiki/Huevo_de_Col%C3%B3n) una historia similar la recoge Giogio Vasari  en su obra _Vidas de pintores, escultores y arquitectos,_
 
@@ -50,7 +50,7 @@ Que fácil es opinar sobre lo sencillo que es resolver un problema, una vez que 
 
 Estas son historias míticas, probablemente la famosa anécdota del huevo de Colón nunca ocurrió, pero eso no impide que los habitantes de Ibiza celebren la anécdota con esta escultura:
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/06/ElHuevoDeIbiza-196x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2010/06/ElHuevoDeIbiza.jpg)
+{% img center http://www.akarru.org/blog/wp-content/uploads/2010/06/ElHuevoDeIbiza.jpg %}
 
 Para los habitantes de Ibiza a Colón se le ocurrió la idea de navegar hacia occidente en sus playas.
 

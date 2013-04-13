@@ -19,6 +19,7 @@ tags:
 
 Tradicionalmente se ha considerado su muerte un suicidio, aunque su madre sostuvo por mucho tiempo que fue un accidente. El terreno queda abierto para la especulación conspirativa, después de todo Turing manejaba muchos secretos militares, después de todo su muerte era conveniente.
 
+<!-- more -->
 
 ## La búsqueda de una vida
 

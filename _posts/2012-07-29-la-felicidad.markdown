@@ -21,7 +21,9 @@ Solón, uno de los [Siete Sabios de Grecia](http://www.e-torredebabel.com/Mitolo
 > "Sí, señor lo fueron más dos hermanos que conocí, llamados Cleobis y Bitón; fueron modelos de amor fraternal y de cariño materno. Era su madre sacerdotisa de Juno, y en una ocasión, estando ya subida en el carro, y tardando en llegar los bueyes que habían de tirar de él, para que no esperase su madre lo hicieron ellos y la condujeron al templo. Su madre, enternecida por esta prueba de cariño y de respeto, suplicó a los dioses que concediesen a sus hijos la mayor felicidad de los mortales, y aquella misma noche murieron ambos suave y tranquilamente."[1]
 
 
-[caption id="attachment_557" align="aligncenter" width="300"][![](http://www.akarru.org/blog/wp-content/uploads/2012/07/SolonAnteCreso-300x236.jpg)](http://www.akarru.org/blog/wp-content/uploads/2012/07/SolonAnteCreso.jpg) "Solón ante Creso" por Gerard van Honthorst[/caption]
+{% img center /blog/wp-content/uploads/2012/07/SolonAnteCreso-300x236.jpg %}
+
+<!-- more -->
 
 Para Solón la felicidad de una persona sólo puede ser juzgada cuando esta ha fallecido.
 
@@ -29,7 +31,7 @@ Otro hombre sabio que reflexionó sobre la felicidad y la riqueza fue Leon Tolst
 
 **LA CAMISA DEL HOMBRE FELIZ**
 
-[caption id="attachment_558" align="alignright" width="217"][![](http://www.akarru.org/blog/wp-content/uploads/2012/07/TolstoyDescalzo.jpg)](http://www.akarru.org/blog/wp-content/uploads/2012/07/TolstoyDescalzo.jpg) Tolstoy Descalzo, por Iliá Repin[/caption]
+{% img center /blog/wp-content/uploads/2012/07/TolstoyDescalzo.jpg "Tolstoy Descalzo, por Iliá Repin" %}
 
 En las lejanas tierras del norte, hace mucho tiempo, vivió un zar que enfermó gravemente. Reunió a los mejores médicos de todo el imperio, que le aplicaron todos los remedios que conocían y otros nuevos que inventaron sobre la marcha, pero lejos de mejorar, el estado del zar parecía cada vez peor.
 

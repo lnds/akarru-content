@@ -24,7 +24,10 @@ De todos los guerreros aqueos que partieron a la guerra para vengar la deshonra 
 
 Pero este bravo guerrero sufrió un terrible percance que le impidió llegar al  campo de batalla. Mientras caminaba por la isla de Crisa, durante un descanso del largo viaje hacia el Bósforo, es mordido en el pie por una serpiente. Esta herida no es mortal, pero le provoca terribles dolores, y la misma expele un olor insoportable. La suma de las quejas de Filoctetes y el hedor de su herida provocan que sus compañeros, incitados por Odiseo, decidan abandonarlo en la isla de Lemnos.
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2012/03/Philoctetes1-210x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2012/03/Philoctetes1.jpg)
+{%img center /blog/wp-content/uploads/2012/03/Philoctetes1-210x300.jpg %}
+
+<!-- more -->
+
 
 Durante diez años Filoctetes se lamenta día y noche, tanto de los dolores de su herida, como de la traición y el abandono del que es objeto. Diez años, ¡pasa diez años quejándose!
 

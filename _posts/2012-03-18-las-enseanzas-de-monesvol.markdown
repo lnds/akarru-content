@@ -24,6 +24,7 @@ En julio de 2011 Niko Alm, un ateo austriaco consiguió que se aceptara oficialm
 
 [![niko](http://www.akarru.org/blog/wp-content/uploads/2012/03/niko_thumb.jpg)](http://www.akarru.org/blog/wp-content/uploads/2012/03/niko.jpg)El argumento de Niko Alm fue que este era una vestimenta ritual permitida por su fe, el pastafarismo. Niko tuvo que tramitar su deseo durante tres años, incluso debió someterse a una certificación sicológica para demostrar que se encontraba apto mentalmente para conducir.
 
+<!-- more -->
  
 
 De acuerdo a la legislación austriaca una fotografía de un documento oficial, como la licencia de conducir, o el pasaporte, debe ser a cara descubierta y sin ningún tipo de adorno en el cabello (sombrero, pañuelo, etc), con la excepción de que esta sea usada por razones religiosas.

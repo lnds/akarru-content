@@ -20,7 +20,7 @@ tags:
 - virgen
 ---
 
-[caption id="attachment_586" align="alignright" width="186"][![Isis amamantando a Horus](http://www.akarru.org/blog/wp-content/uploads/2012/12/isis-2.jpg)](http://www.akarru.org/blog/2012/12/nacimiento/isis-2/) Isis amamantando a Horus[/caption]
+{% img right /blog/wp-content/uploads/2012/12/isis-2.jpg 'Isis amamantando a Horus' %}
 
 Navidad es tiempo de alegría y celebración mucho antes de que Jesús naciera.
 
@@ -30,13 +30,15 @@ Navidad es tiempo de alegría y celebración mucho antes de que Jesús naciera.
 
 Con estos gritos los antiguos sirios y egipcios abandonaban las capillas en las que se reunían el 25 de diciembre.
 
+<!-- more -->
+
 Los egipcios adoraban ese día el nacimiento del Hijo del Sol, pues ese día se alineaban los tres astros del Cinturón de Orión (las que conocemos como Las Tres Marías) señalando al punto por donde el Sol sale, indicando que a partir de ese momento los días empiezan a ser más largos. Estas tres estrellas representaban a tres reyes que venían a adorar al niño-dios Horus.
 
 En esta época los sacerdotes tonsurados de Isis tocaban las campanas y hacían procesiones con imágenes de la Madre y el Hijo. A ella dirigían sus oraciones en maitines y vísperas, y en nombre de ella hacían aspersiones con agua bendita y bautizaban a los niños.
 
 Era habitual representar a la madre y al niño coronados, con Isis portando la corona que contenía el disco solar, Ra, representando al padre del niño. La madre abraza al niño dios para amamantarlo, símbolo de fertilidad, habitual en todas las religiones matriarcales.
 
-[caption id="attachment_587" align="alignleft" width="215"][![Stella Maris](http://www.akarru.org/blog/wp-content/uploads/2012/12/stella-maris.jpg)](http://www.akarru.org/blog/2012/12/nacimiento/stella-maris/) Stella Mariss[/caption]
+{% img left http://www.akarru.org/blog/wp-content/uploads/2012/12/stella-maris.jpg 250  'Stella Maris' %}
 
 La estrella de Isis era Sirio, la estrella de los navegantes, que llamaban [Stella Maris](http://es.wikipedia.org/wiki/Stella_Maris), estrella de los mares, el mismo nombre que hoy dan los navegantes a la Estrella Polar que está asociada a la Virgen María, quién  se encomiendan para el éxito en sus travesías marítimas.
 
@@ -50,7 +52,7 @@ Más al oriente, entre los pueblos semíticos se adoraba a la gran Virgen Celest
 
 Los sumerios la identificaban con [Innana](http://es.wikipedia.org/wiki/Inanna), la diosa del amor, la naturaleza y la fertilidad. Y para los griegos era Démeter y a veces Afrodita. Siempre se asociaba su imagen a Venus, el Lucero del Atardecer. Acá la vemos amamantando a Tammuz, una de las imágenes de la Madona más antiguas de la humanidad:
 
-[caption id="attachment_589" align="aligncenter" width="250"][![Innana amamantando a Tamuz](http://www.akarru.org/blog/wp-content/uploads/2012/12/madre-terracota.jpg)](http://www.akarru.org/blog/2012/12/nacimiento/madre-terracota/) Innana amamantando a Tamuz[/caption]
+{% img center http://www.akarru.org/blog/wp-content/uploads/2012/12/madre-terracota.jpg 'Innana amamantando a Tamuz' %}
 
 
 ## 25 de diciembre
@@ -71,7 +73,7 @@ Por esta razón, también nosotros adornamos nuestras casas y árboles con luces
 ## Navidad
 
 
-[caption id="attachment_591" align="alignright" width="242"][![Mitra con el gorro frigio](http://www.akarru.org/blog/wp-content/uploads/2012/12/Mitra.jpg)](http://www.akarru.org/blog/2012/12/nacimiento/mitra/) Mitra[/caption]
+{% img right http://www.akarru.org/blog/wp-content/uploads/2012/12/Mitra.jpg 'Mitra' %}
 
 El culto de Mitra, de origen persa, una suerte de herejía al zoroastrismo, nos cuenta que su dios nace en una caverna. Este dios [portador de luz](http://www.akarru.org/blog/2011/04/portador-de-la-luz/) se origina en el antiguo Irán alrededor del segundo milenio antes de Cristo, sin embargo una versión mistérica de su culto es traída a Roma por las legiones, y se instituye como una poderosa religión, que compite con el cristianismo durante los primeros siglos de nuestra era. Sabemos poco de estos cultos, pues sus ritos eran secretos, y lo que sabemos principalmente a través de su iconografía y los restos dejados en los Mitreos, antiguos templos de esta religión. La imagen del costado corresponde al rostro de Mitra, sobre su cabeza está el famoso gorro frigio.
 
@@ -89,9 +91,11 @@ Según Joseph Campbell:
 
 Y así, como ha sucedido con todas las antiguas religiones del mundo, en el sincretismo las viejas tradiciones dan paso a las nuevas. Los viejos dioses siguen viviendo en el símbolo de la nueva religión, pero no desaparecen del todo.
 
-[caption id="attachment_592" align="aligncenter" width="634"][![Buey y Asno rodeando al niño Jesús](http://www.akarru.org/blog/wp-content/uploads/2012/12/Buey-y-mula-en-el-belén_-Sarcofago-di-Stilicone_-Basílica-de-San-Ambrosio_-Milán-1.jpg)](http://www.akarru.org/blog/2012/12/nacimiento/buey-y-mula-en-el-belen_-sarcofago-di-stilicone_-basilica-de-san-ambrosio_-milan-1/) Buey y Asno rodeando al niño Jesús, Sarcófago de Stilicone, siglo IV, Basílica de San Ambrosio en Milán[/caption]
+{% img center http://www.akarru.org/blog/wp-content/uploads/2012/12/Buey-y-mula-en-el-belén_-Sarcofago-di-Stilicone_-Basílica-de-San-Ambrosio_-Milán-1.jpg %}
+Buey y Asno rodeando al niño Jesús, Sarcófago de Stilicone, siglo IV, Basílica de San Ambrosio en Milán
 
-[caption id="attachment_593" align="aligncenter" width="640"][![Adoración de los Magos, detalle del Sarcófago Dogmático c. 330-340 dc. Notar los gorros frigios de los magos](http://www.akarru.org/blog/wp-content/uploads/2012/12/magos.jpg)](http://www.akarru.org/blog/2012/12/nacimiento/magos/) Adoración de los Magos, detalle del Sarcófago Dogmático c. 330-340 dc. Notar los gorros frigios de los magos[/caption]
+{% img center http://www.akarru.org/blog/wp-content/uploads/2012/12/magos.jpg %}
+Adoración de los Magos, detalle del Sarcófago Dogmático c. 330-340 dc. Notar los gorros frigios de los magos.
 
 
 
