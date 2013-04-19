@@ -30,9 +30,8 @@ tags:
 
 **El Rito de la Madurez**
 
-[caption id="attachment_318" align="alignright" width="169" caption="Máscara Ritual"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/MascaraRitual-169x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/MascaraRitual.jpg)[/caption]
-
-Joseph Campbell [nos cuenta](http://www.youtube.com/watch?v=aGx4IlppSgU) que en los antiguos rituales de iniciación, el niño se enfrenta a un hombre adulto que lleva una máscara ritual. Durante toda su corta vida se le ha explicado que esas máscaras representan a los dioses, y ahora, en el interior de una cueva, debe enfrentarse a uno de ellos, representado por un guerrero (probablemente su padre) que porta esta máscara con todo el poder divino. Y el chico debe luchar con Dios hasta derrotarlo.  Eventualmente el guerrero se dejará vencer y en ese momento se quitará  la máscara y la pondrá en el rostro del muchacho,  con este acto mágico el niño se hará hombre. El niño debe morir para resucitar como adulto a través de esta lucha con Dios, para entender el sentido del poder sagrado. El joven ha vivido durante catorce años en un estado de dependencia, de protección y sumisión a sus padres, bajo la autoridad de los adultos. Son ellos los que han decidido por él. Es este paso, este ritual de enfrentarse a la máxima autoridad, de luchar contra Dios, el que nos revela el tremendo poder de la libertad de la vida adulta, pasamos a un estadio de mayor responsabilidad, y autodeterminación. Este es el sentido de esos antiguos rituales con máscaras de los habitantes de Tierra del Fuego. Esta es la razón por la que tanto nos aterran estas máscaras, porque son mágicas, poderosas, símbolos atávicos en el interior de nuestro subconciente, símbolos de poder y misterio.
+{% img right /blog/wp-content/uploads/2011/04/MascaraRitual-169x300.jpg "Máscara Ritual" %}
+Joseph Campbell [nos cuenta](http://www.youtube.com/watch?v=aGx4IlppSgU) que en los antiguos rituales de iniciación, el niño se enfrenta a un hombre adulto que lleva una máscara ritual. Durante toda su corta vida se le ha explicado que esas máscaras representan a los dioses, y ahora, en el interior de una cueva, debe enfrentarse a uno de ellos, representado por un guerrero (probablemente su padre) que porta esta máscara con todo el poder divino. Y el chico debe luchar con Dios hasta derrotarlo.  Eventualmente el guerrero se dejará vencer y en ese momento se quitará  la máscara y la pondrá en el rostro del muchacho,  con este acto mágico el niño se hará hombre. El niño debe morir para resucitar como adulto a través de esta lucha con Dios, para entender el sentido del poder sagrado. El joven ha vivido durante catorce años en un estado de dependencia, de protección y sumisión a sus padres, bajo la autoridad de los adultos. Son ellos los que han decidido por él. Es este paso, este ritual de enfrentarse a la máxima autoridad, de luchar contra Dios, el que nos revela el tremendo poder de la libertad de la vida adulta, pasamos a un estadio de mayor responsabilidad, y autodeterminación. Este es el sentido de esos antiguos rituales con máscaras de los habitantes de Tierra del Fuego. Esta es la razón por la que tanto nos aterran estas máscaras, porque son mágicas, poderosas, símbolos atávicos en el interior de nuestro subconsciente, símbolos de poder y misterio.
 
 **Lucifer **
 
@@ -40,22 +39,22 @@ El Portador de la Luz, eso literalmente  significa Lúcifer, viene de Lux que e
 
 Eosfero era el hijo de Astreo, el padre de las estrellas y los planetas, el Titán creador de la astrología, de acuerdo a Hesiodo en la [Teogonia](http://www.akarru.org/blog/wp-content/uploads/2011/04/Teogonia.pdf). Astreo también es considerado uno de los Gigantes. Se lee en la Gigantomaquia (la Guerra de los Gigantes) que estos seres, hijos de la Tierra, Gea, trataron de tomar el cielo por asalto (El Monte Olimpo), apilando cadenas montañosas una sobre otra. Esto de tomar el cielo por asalto se repite una y otra vez en muchos mitos como iremos viendo.
 
-[caption id="attachment_319" align="aligncenter" width="372" caption="Gigante atacando el Olimpo"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/Gigante.png)](http://www.akarru.org/blog/wp-content/uploads/2011/04/Gigante.png)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/Gigante.png %}
 
 La relación de Lúcifer con las estrellas es antigua y conocida. En los escritos satanistas se habla de Algol, la puerta al caos que crea el mundo (Algol, que viene de Al-goul, [la cabeza de Medusa](http://www.akarru.org/blog/2010/04/perseo-medusa-y-pegaso/) de [la que hemos hablado antes](http://www.akarru.org/blog/2010/11/un-mundo-de-zombis/)), Lúcifer es la primera de las estrellas en el cielo. Para los antiguos pueblos semitas las estrellas representaban a los ángeles.
 
 "¡Cómo caíste del cielo, oh Lucero, hijo de la Aurora!" dice en el capítulo 14, versículo 12, del libro de Isaías en el Antiguo Testamento.
 
-Luzbel es una estrella caida, probablemente un meteorito. En el sexto capítulo del Génesis leemos el mito de los **gigantes** que pueblan la tierra, vástagos de las hijas de los hombres y los ángeles caidos. _"Había gigantes en la tierra en aquellos días, y también después que se allegaron los hijos de Dios a las hijas de los hombres, y les engendraron hijos. Estos fueron los valientes que desde la antigüedad fueron varones de renombre."_
+Luzbel es una estrella caída, probablemente un meteorito. En el sexto capítulo del Génesis leemos el mito de los **gigantes** que pueblan la tierra, vástagos de las hijas de los hombres y los ángeles caidos. _"Había gigantes en la tierra en aquellos días, y también después que se allegaron los hijos de Dios a las hijas de los hombres, y les engendraron hijos. Estos fueron los valientes que desde la antigüedad fueron varones de renombre."_
 
 **La Rebelión de Lucifer**
 
-[caption id="attachment_323" align="alignright" width="221" caption="Lucifer estatua en marmol por Guillaume Geefs en Bélgica"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/Lucifer.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/Lucifer.jpg)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/Lucifer.jpg "Lucifer estatua en marmol por Guillaume Geefs en Bélgica" %}
 
 Hay una tradición Persa antigua que nos cuenta Campbell que desafía la idea tradicional que tenemos de la rebelión de Lucifer.
 
 
-> Una de las más sorprendentes imágenes de amor que conozco está en Persia, una representación mítica de Satán como el más leal amante de Dios. Habrán escuchado la vieja leyenda de como, cuando Dios creó a los ángeles,  les ordenó que no rindieran adoración a nadie más que a él; pero entonces, al crear al hombre, les ordenó que se inclinaran en  reverencia a su más noble creación, y Lucifer se rehúso, debido a su orgullo, se nos ha dicho. Sin embargo, de acuerdo a cierta interpretación musulmana de este caso, fue más bien porque el amaba y adoraba a Dios tan profunda e intensamente que no podía postrarse ante nada más, y porque él rehusaba reverenciar a algo inferior (dado que él estaba hecho de fuego, y el hombre de arcilla). Y fue por esto que él fue arrojado al Infierno, condenado a existir allí hasta la eternidad, apartado de su amor.
+> Una de las más sorprendentes imágenes de amor que conozco está en Persia, una representación mítica de Satán como el más leal amante de Dios. Habrán escuchado la vieja leyenda de como, cuando Dios creó a los ángeles,  les ordenó que no rindieran adoración a nadie más que a él; pero entonces, al crear al hombre, les ordenó que se inclinaran en  reverencia a su más noble creación, y Lucifer se rehusó, debido a su orgullo, se nos ha dicho. Sin embargo, de acuerdo a cierta interpretación musulmana de este caso, fue más bien porque el amaba y adoraba a Dios tan profunda e intensamente que no podía postrarse ante nada más, y porque él rehusaba reverenciar a algo inferior (dado que él estaba hecho de fuego, y el hombre de arcilla). Y fue por esto que él fue arrojado al Infierno, condenado a existir allí hasta la eternidad, apartado de su amor.
 
 
 
@@ -79,7 +78,7 @@ Hesiodo nos cuenta en la [Teogonía](http://www.akarru.org/blog/wp-content/uploa
 
 > "[...]durante un sacrificio solemne había hecho dos partes de un buey: en un lado puso la carne y las entrañas, recubriéndolas con el vientre del animal: en otro puso los huesos mondos, cubriéndolos con grasa blanca. Luego dijo a Zeus que eligiese su parte; el resto quedaría para los hombres. Zeus escogió la grasa blanca, y al descubrir que sólo contenía huesos, sintió un profundo rencor hacia Prometeo y los mortales, favorecidos por aquella astucia. Para castigarles, decidió no volver a enviarles el fuego. Entonces Prometeo acudió en su auxilio por segunda vez; robó semillas del fuego en “la rueda del sol” y las llevó a las tierras ocultas en un tallo de férula. Otra tradición pretende que sustrajo el fuego de la fragua de Hefesto. Zeus castigó a los mortales y a su bienhechor. Contra los primeros ideó enviar un modelo ex profeso, Pandora. En cuanto a Prometeo, lo encadenó con cables de acero en el Cáucaso, enviando un águila nacida de Equidna y de Tifón, que le devoraba el hígado, el cual se regeneraba constantemente."
 
-[caption id="attachment_328" align="aligncenter" width="315" caption="Prometeo encadenado siendo torturado por el águila en el cáucaso"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/prometeo.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/prometeo.jpg)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/prometeo.jpg "Prometeo encadenado siendo torturado por el águila en el cáucaso" %}
 
 
 El mito de Prometeo representa la amenaza, en la forma de castigo eterno, para el mayor de todos los pecados, enfrentarse al padre, enfrentarse al poder supremo (representado en Dios). _"Prometeo, y por analogía los humanos, han de entender que deben una obediencia absoluta al poder porque si no éste descargará contra ellos con toda su furia." [[1](http://rua.ua.es/dspace/bitstream/10045/14151/1/De%20Prometeo%20a%20Lucifer.pdf)]_
@@ -99,13 +98,13 @@ En otros mitos Prometeo es el creador de los hombres, los que moldea a partir de
 Prometeo tiene un análogo en Loki, el dios germánico, quien también está relacionado con el fuego, lo interesante es que sufre un castigo similar, es encadenado a una montaña y es torturado perpetuamente por el veneno de  una serpiente, que gotea sobre su cuerpo provocándole intensos dolores, que causan los terremotos. Su hija Sygin está junto a él, e intenta detener el veneno recogiéndolo en una copa antes que caiga sobre su padre. Loki seguirá encadenado hasta que llegue el  Ragnarok, el asalto al cielo (el Valhalla) que ocurrirá al final de los tiempos.
 Por cierto, Loki también es el timador, el "origen de todo fraude", y en ese sentido es también visto como un enemigo de los dioses, el adversario.
 
-[caption id="attachment_335" align="aligncenter" width="185" caption="Loki Encadenado asistido por su hija Sigyn"][![Loki Encadenado asistido por su hija Sigyn](http://www.akarru.org/blog/wp-content/uploads/2011/04/LokiEncadenado-236x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/LokiEncadenado.jpg)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/LokiEncadenado-236x300.jpg "Loki Encadenado asistido por su hija Sigyn" "Loki Encadenado asistido por su hija Sigyn" %}
 
 Otros análogo germánico de Prometeo es Odin, quien también se sacrifica para poder llevar el secreto de la escritura a los hombres.
 
 **El otro dios**
 
-[caption id="attachment_331" align="alignleft" width="234" caption="Cain mata a Abel ilustración de Doré"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/CainMataAbel-234x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/CainMataAbel.jpg)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/CainMataAbel-234x300.jpg "Cain mata a Abel ilustración de Doré" "Cain mata a Abel ilustración de Doré" %}
 
 En algunos escritos  esotéricos, y según algunos, en los escritos masónicos más ocultos (principalmente en la historia de Hiram Abiff), se nos cuenta que al principio habían dos dioses. Uno era Adonai, el dios de la Biblia, y el otro era Iblis (Samael, Lucifer, Prometeo, Baphomet). Según algunas tradiciones talmúdicas Iblis sedujo a Eva, Cain sería fruto de la unión de Iblis y Eva, así como Abel hijo Adan y Eva. Adán sentirá desprecio por Caín, y este, cansado de este trato injusto se rebelará, y matará a su hermano Abel.
 
@@ -121,32 +120,32 @@ Taus es un palabra que está relacionada con Zeus, y Theos, de la cual viene nue
 
 En algún momento Lucifer, o Luzbel pasa a ser identificado con Satán, Shaitan, el adversario. Pero para algunos Satán es otro ser, tan antiguo como Lucifer, un verdadero demonio, no un ángel caido. Pero la existencia de un demonio obligaría a explicar su origen, y cómo Dios podría haber creado una criatura malvada. De ahí que se asuma que los demonios son ángeles o seres espirituales que se han alejado de Dios, y con esto se han corrompido. _ "Perfecto eras en todos tus caminos desde el día que fuiste creado, hasta que se halló en ti maldad."_, leemos en el libro de Ezequiel.
 
-Satán era perfecto, y al igual que el hombre, tenía libre albedrío, y fue su arrogancia la que lo condenó. El quería ser más que el hombre. La caida y su plan para arruinar el plan de Dios con el ser humano es el tema central del Paraiso Perdido de John Milton.
+Satán era perfecto, y al igual que el hombre, tenía libre albedrío, y fue su arrogancia la que lo condenó. El quería ser más que el hombre. La caída y su plan para arruinar el plan de Dios con el ser humano es el tema central del "Paraíso Perdido" de John Milton:
 
 
-> ¿Qué importa el lugar donde yo resida, si soy el mismo que era, si lo soy todo, aunque inferior a aquel a quien el trueno ha hecho más poderoso? Aquí, al menos, seremos libres, pues no ha de haber hecho el Omnipotente este sitio para envidiárnoslo, ni querrá, por lo tanto, expulsarnos de él; aquí podremos reinar con seguridad, y para mí, reinar es ambición digna, aun cuando sea sobre el infierno, porque más vale reinar aquí, que servir en el cielo.
+> "¿Qué importa el lugar donde yo resida, si soy el mismo que era, si lo soy todo, aunque inferior a aquel a quien el trueno ha hecho más poderoso? Aquí, al menos, seremos libres, pues no ha de haber hecho el Omnipotente este sitio para envidiárnoslo, ni querrá, por lo tanto, expulsarnos de él; aquí podremos reinar con seguridad, y para mí, reinar es ambición digna, aun cuando sea sobre el infierno, porque más vale reinar aquí, que servir en el cielo." -- Fragmento del Paraiso Perdido, de John Milton
 
 
 En el libro de Números del antiguo testamento, Shatan, en el sentido del adversario, es un ángel mensajero de Jehova enviado a detener a Balaam, e impedirle que maldiga al pueblo de Israel, el episodio es famoso porque finalmente la burra de Balaam habla a su amo reclamándole por el castigo injusto que le aplica.
 
-[caption id="attachment_344" align="aligncenter" width="220" caption="El adversario Shatan deteniendo a Balaam por Gustave Jaeger"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/Baleam.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/Baleam.jpg)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/Baleam.jpg "El adversario Shatan deteniendo a Balaam por Gustave Jaeger" "El adversario Shatan deteniendo a Balaam por Gustave Jaeger" %}
 
 El término Satán es usado como una suerte de fiscal acusador, y así es como se le presenta en el hermoso libro de Job:
 
 
 > Un día vinieron a presentarse delante de Jehová los hijos de Dios, entre los cuales vino también Satanás.
 
-Y dijo Jehová a Satanás: ¿De dónde vienes? Respondiendo Satanás a Jehová, dijo: De rodear la tierra y de andar por ella.
+> Y dijo Jehová a Satanás: ¿De dónde vienes? Respondiendo Satanás a Jehová, dijo: De rodear la tierra y de andar por ella.
 
-Y Jehová dijo a Satanás: ¿No has considerado a mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal?
+> Y Jehová dijo a Satanás: ¿No has considerado a mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal?
 
-Respondiendo Satanás a Jehová, dijo: ¿Acaso teme Job a Dios de balde?
+> Respondiendo Satanás a Jehová, dijo: ¿Acaso teme Job a Dios de balde?
 
-¿No le has cercado alrededor a él y a su casa y a todo lo que tiene? Al trabajo de sus manos has dado bendición; por tanto, sus bienes han aumentado sobre la tierra.
+> ¿No le has cercado alrededor a él y a su casa y a todo lo que tiene? Al trabajo de sus manos has dado bendición; por tanto, sus bienes han aumentado sobre la tierra.
 
-Pero extiende ahora tu mano y toca todo lo que tiene, y verás si no blasfema contra ti en tu misma presencia.
+> Pero extiende ahora tu mano y toca todo lo que tiene, y verás si no blasfema contra ti en tu misma presencia.
 
-Dijo Jehová a Satanás: He aquí, todo lo que tiene está en tu mano; solamente no pongas tu mano sobre él. Y salió Satanás de delante de Jehová.
+> Dijo Jehová a Satanás: He aquí, todo lo que tiene está en tu mano; solamente no pongas tu mano sobre él. Y salió Satanás de delante de Jehová.
 
 
 Vemos en este texto que Satanás tenía la libertad de recorrer la tierra e incluso visitar el cielo en cualquier momento, y se presentaba ante Dios para acusar a la humanidad.
@@ -155,7 +154,7 @@ La identificación de Satán con Lucifer se hace más clara después de los evan
 
 Y reaparece la dualidad de los dos dioses eternos que se enfrentan, Iblis y Adonai, en la imagen de Jesús y Satanás. La luz y la oscuridad. Hay que considerar en algunas visiones de antiguos cristianos  Cristo, el Logos, la Palabra de Dios, es un ser creado, es, en cierto sentido,  un hermano de Lucifer. La historia de Caín y Abel prefigura esta idea de Jesús y Lucifer, la muerte de Cristo en la cruz pareciera como una nueva victoria del hermano rebelde sobre el obediente, aunque en el mito cristiano este resucita, desciende a los infiernos y termina encadenando a su malvado hermano en el Averno, del cual ya no puede escapar.
 
-[caption id="attachment_345" align="aligncenter" width="242" caption="Caida del Diablo, ilustración de Doré"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/CaidaDelDiablo-242x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/CaidaDelDiablo.jpg)[/caption]
+{% img center /blog/wp-content/uploads/2011/04/CaidaDelDiablo-242x300.jpg "Caida del Diablo, ilustración de Doré" "Caida del Diablo, ilustración de Doré" %}
 
 En la primera epístola de Juan se nos dice que quien es justo es de Dios, en cambio el que comete pecado es del diablo.
 
@@ -163,30 +162,17 @@ La soberbia, confundida con la arrogancia, pasa a convertirse en la visión cris
 
 **El pecado y la inversión de los valores**
 
-De esta doctrina nace la idea del pecado, introducido en el mundo a través del corruptor de todo, Satanás. Todos nacemos pecadores nos dicen estas doctrinas. El bebé inocente en su cama es un pecador, y por lo tanto todos somos malos por naturaleza, y sólo mediante la aceptación de la autoridad podemos alcanzar la verdadera felicidad que consiste en la adoración eterna del Altisimo.
+De esta doctrina nace la idea del pecado, introducido en el mundo a través del corruptor de todo, Satanás. Todos nacemos pecadores nos dicen estas doctrinas. El bebé inocente en su cama es un pecador, y por lo tanto todos somos malos por naturaleza, y sólo mediante la aceptación de la autoridad podemos alcanzar la verdadera felicidad que consiste en la adoración eterna del Altísimo.
 
 ¿Qué pasó con los hombres que perdieron su libertad en aras de esta doctrina de obediencia ciega, y sometimiento?
 
-La idea del pecado es poderosísima, y terrible. Miles de niños son expuestos a estas ideas en catequesis, y sesiones dominicales (la palabra domingo vienen de domini, amo, señor, literalmente el día del amo). Si te opones a este servilismo seguramente serás acusado de satanista.
+La idea del pecado es poderosísima y terrible. Miles de niños son expuestos a estas ideas en catequesis, y sesiones dominicales (la palabra domingo vienen de domini, amo, señor, literalmente el día del amo). Si te opones a este servilismo seguramente serás acusado de satanista.
 
 Es la inversión de los valores que nos habla Nietzche. En vez de afirmar la vida, de exaltarla, lo que nos muestra esta doctrina es que debemos prepararnos para la muerte, a través del dolor y el sometimiento a la autoridad. Ya no somos libres, la libertad consiste en aceptar y arrodillarse ante el único maestro. Leemos en el [Anticristo](http://www.akarru.org/blog/wp-content/uploads/2011/04/el-anticristo.pdf):
 
-
-
-
-
 > ¿Qué es lo más perjudicial que cualquier vicio? La acción compasiva hacía todos los fracasados y los débiles: el cristianismo.
 
-
-
-
-> 
-
-> 
 > No se debe adornar y acicalar el cristianismo: hizo una guerra mortal a cierto tipo superior de hombre; desterró todos los instintos fundamentales de este tipo, de estos instintos extrajo y destiló el mal el hombre malo; consideró al hombre fuerte como lo típicamente reprobable, como el réprobo. El cristianismo tomó partido por todo lo que es débil, humilde, fracasado, hizo un ideal de la contradicción a los instintos de conservación de la vida fuerte; estropeó la razón misma de los temperamentos espiritualmente más fuertes, enseñó a considerar pecaminosos, extraviados, tentadores, los supremos valores de la intelectualidad. El ejemplo más lamentable es éste: la ruina de Pascal,que creyó que su razón estaba corrompida por el pecado original, cuando sólo estaba corrompida por su cristianismo.
-
-
-
 
 
 Por eso que el Portador de la Luz, Lucifer, se convirtió en el enemigo del cristiano. Porque el cristiano ha de permanecer humilde, obediente a la autoridad. No podrá nunca superar la prueba de la madurez y conocer la libertad.
@@ -195,7 +181,7 @@ Por eso que el Portador de la Luz, Lucifer, se convirtió en el enemigo del cris
 
 Pero además el diablo se convierte en la excusa perfecta. Si un sacerdote ha cometido pederastia es que ha sido el diablo que ha metido su cola, el adolescente que es abusado no es más que un servidor de Satanás que ha cometido el terrible pecado de tentar a su confesor, o guía espiritual. Y no son cosas que me estoy inventando, son cosas que dicen algunos Príncipes de la Iglesia.
 
-El mal no es una entidad que exista con el fin de corrompernos. El mal está en los actos de los hombres. Los hombres son libres, y esta libertad es la que los puede llevar a actuar  bien o  mal. Usar a un ser mítico como excusa de los actos perverso que libremente se escogen no sólo me parece infantil, sino que  despreciable.
+El mal no es una entidad que exista con el fin de corrompernos. El mal está en los actos de los hombres. Los hombres son libres, y esta libertad es la que los puede llevar a actuar  bien o  mal. Usar a un ser mítico como excusa de los actos perversos que libremente se escogen no sólo me parece infantil, sino que  despreciable.
 
 **Madurez**
 
@@ -213,8 +199,7 @@ Mientras no pase por el rito de madurez seguiré siendo niño, no habré entendi
 
 No es eso lo que espero para mí, ni tampoco para mis hijos. Yo espero que ellos entiendan su libertad, pasen por el rito de madurez, se enfrenten a mí, para poner en sus rostros la máscara con el verdadero poder sagrado, el la luz, de la libertad.
 
-[caption id="attachment_350" align="aligncenter" width="500" caption="El Rito de Madurez de los hombres libres Kaweskar"][![](http://www.akarru.org/blog/wp-content/uploads/2011/04/RitoDeMadurez.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/04/RitoDeMadurez.jpg)[/caption]
-
+{% img center /blog/wp-content/uploads/2011/04/RitoDeMadurez.jpg  "El Rito de Madurez de los hombres libres Kaweskar" %}
 
 **Fuentes:**
 
@@ -226,7 +211,7 @@ Joseph Campbell se rie de esta necesidad académica de la autoridad en [este vid
 
 
 
-[1] Este artículo de Celso Luján de la Universidad de Alicante: De Prometeo a Lucifer: la represión del relativismo y elestablecimiento del Amor como criterio absoluto. [Enlace](http://rua.ua.es/dspace/bitstream/10045/14151/1/De%20Prometeo%20a%20Lucifer.pdf)
+[1] Este artículo de Celso Luján de la Universidad de Alicante: De Prometeo a Lucifer: la represión del relativismo y el establecimiento del Amor como criterio absoluto. [Enlace](http://rua.ua.es/dspace/bitstream/10045/14151/1/De%20Prometeo%20a%20Lucifer.pdf)
 
 
 
