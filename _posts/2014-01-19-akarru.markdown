@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Akarrú, el libro" 
+date: 2014-01-19 11:55
+comments: true
+categories: 
+---
+Hace bastante tiempo que tengo algo abandonado este blog, algo que espero reparar durante este año. Sin embargo, como una manera de cerrar un ciclo, he publicado hace unos días un libro electrónico, que contiene la mayor parte de los artículos publicados en este blog, junto con otros escritos tomados de otras partes, y un par de cosas inéditas. Muchos de los posts originales fueron editados y revisados y espero que los disfruten en este nuevo formato.
+
+El libro se encuentra disponible [en Amazon](http://amzn.to/KSNGOp), para los usuarios Kindle y [en Smashwords](http://bit.ly/1hPbQYq) para quienes usan el formato epub (más popular en los dispositivos Apple, y en varios teléfonos y computadores). En los próximos días estará disponible en más tiendas online.
+
+Los invito a adquirirlo y a difundir entre sus conocidos y amigos. Es un libro bastante misceláneo, donde encontrarán cosas interesantes, desde mitología, hasta algo de filosofía y sicología social, así de amplio es el espectro. Hay reflexiones personales, sobre religión, ateísmo, costumbres y valores. Algunas de mis preocupaciones sobre los límites éticos de la tecnología y temores sobre nuestro abuso de esta. Algunos apartados sobre cine y televisión, música rock, y por supuesto la radio, que tanto amaba mi padre. Por último, contiene mensajes para mis hijos y familia, que creo son aptos para muchas otras personas también, en este sentido, tiene algunos textos míos más personales.
+
+A todos los que me han leído estos años aprovecho de agradecerles, sin sus visitas a este blog, no me habría atrevido a dar este paso. Nos veremos pronto con nuevos artículos, que tengan un muy buen año.
+
+*Oferta*
+Si lo compran a través de Smashwords usando este código: GR39Y podrán adquirirlo al precio de 99 centavos de dólar (US$ 0.99). Piensen que es como si me invitaran tomar un café ;).
+
+La url para comprarlo es la siguiente: [https://www.smashwords.com/dashboard/coupons/create/397118](https://www.smashwords.com/dashboard/coupons/create/397118)
+
+Recuerden usar el código GR39Y al momento de realizar su compra. Oferta válida hasta el 14 de febrero.
+
+{% img center /blog/images/2014/01/libro.jpg %}
